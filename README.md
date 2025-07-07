@@ -201,9 +201,9 @@ Your repository includes the following:
 
 📸 Board Images:
 
-* ![Front View](3D_Images/Front.jpg)
-* ![Back View](3D_Images/Back.jpg)
-* ![PCB Traces](3D_Images/trace2.jpg)
+* ![Front View](3D_Images/Front.png)
+* ![Back View](3D_Images/Back.png)
+* ![PCB Traces](3D_Images/trace2.png)
 
 
 ---
