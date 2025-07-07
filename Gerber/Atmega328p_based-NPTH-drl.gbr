@@ -1,0 +1,27 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.2*%
+%TF.CreationDate,2025-07-07T19:43:41+05:30*%
+%TF.ProjectId,Atmega328p_based,41746d65-6761-4333-9238-705f62617365,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.2) date 2025-07-07 19:43:41*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentDrill*%
+%ADD10C,2.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,H2*%
+X130500000Y-64750000D03*
+%TO.C,H3*%
+X136500000Y-109250000D03*
+%TO.C,H4*%
+X162000000Y-109250000D03*
+%TO.C,H1*%
+X163500000Y-65000000D03*
+M02*
